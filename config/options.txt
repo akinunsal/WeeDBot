@@ -1,0 +1,16 @@
+[Credentials]
+Username = email@text.com
+Password = password
+[Permissions]
+OwnerID = 112233445566778899
+
+[Chat]
+CommandPrefix = !
+
+[MusicBot]
+DaysActive = 0
+WhiteListCheck = no
+SkipsRequired = 7
+SkipRatio = 0.5
+SaveVideos = yes
+NowPlayingMentions = no
